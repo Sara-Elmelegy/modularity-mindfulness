@@ -49,5 +49,12 @@ h1 span {
 nav ul {
   display: flex;
   justify-content: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 1.125rem;
+}
 
+nav li{
+  padding: 0 0.5rem;
 }
